@@ -1,0 +1,6 @@
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\bin\Debug\05.exe.config
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\bin\Debug\05.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\bin\Debug\05.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\obj\Debug\05.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\obj\Debug\05.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\05\obj\Debug\05.csprojResolveAssemblyReference.cache

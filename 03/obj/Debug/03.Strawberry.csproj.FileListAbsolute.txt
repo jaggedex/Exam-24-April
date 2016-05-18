@@ -1,0 +1,6 @@
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\bin\Debug\03.exe.config
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\obj\Debug\03.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\obj\Debug\03.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\bin\Debug\03.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\bin\Debug\03.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\03\obj\Debug\03.Strawberry.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\bin\Debug\TEST.exe.config
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\bin\Debug\TEST.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\bin\Debug\TEST.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\obj\Debug\TEST.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\TEST\obj\Debug\TEST.pdb

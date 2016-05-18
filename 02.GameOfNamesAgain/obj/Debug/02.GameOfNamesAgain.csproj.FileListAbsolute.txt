@@ -1,0 +1,6 @@
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\bin\Debug\02.GameOfNamesAgain.exe.config
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\bin\Debug\02.GameOfNamesAgain.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\bin\Debug\02.GameOfNamesAgain.pdb
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\obj\Debug\02.GameOfNamesAgain.csprojResolveAssemblyReference.cache
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\obj\Debug\02.GameOfNamesAgain.exe
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\02.GameOfNamesAgain\obj\Debug\02.GameOfNamesAgain.pdb

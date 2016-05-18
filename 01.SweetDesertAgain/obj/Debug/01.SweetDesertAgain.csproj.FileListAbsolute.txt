@@ -1,0 +1,2 @@
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\01.SweetDesertAgain\bin\Debug\01.SweetDesertAgain.exe.config
+C:\Users\jagged\Desktop\EXAM-24-APRIL\01\01.SweetDesertAgain\obj\Debug\01.SweetDesertAgain.csprojResolveAssemblyReference.cache
